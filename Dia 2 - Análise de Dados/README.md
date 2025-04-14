@@ -20,7 +20,7 @@ Este projeto realiza uma análise exploratória de dados (EDA) para identificar 
 ## Estrutura do Projeto
 
 - `cancelamentos_sample.csv` — Base de dados com informações sobre os clientes e seus status de cancelamento.
-- `initial.ipynb` — Notebook contendo todo o processo de análise e visualização dos dados.
+- `inicial.ipynb` — Notebook contendo todo o processo de análise e visualização dos dados.
 - `README.md` — Este arquivo, com informações sobre o projeto.
 
 ## Etapas da Análise
